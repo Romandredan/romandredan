@@ -46,7 +46,8 @@
 - 🎧 **Radio Ingvar** (Игорь Апресов) - «РАЗРАБОТЧИК vs АНАЛИТИК: кто из вас лишний?» ([видео](https://www.youtube.com/watch?v=ugUTuZCuYFI))
 - 🎧 **Радио «Аналитик»**, 13 выпуск 4 сезона - про навыки и мышление аналитика ([запись](https://infostart.ru/pm/2623643/))
 - 🎧 **Эфир СППР+** - вместе с Иосифом Правцем ([видео](https://vkvideo.ru/video-227693893_456239028))
-- 📰 Интервью о пути на сцену - [в журнале Инфостарта](https://infostart.ru/journal/news/mir-1s/vpervye-na-konferentsii-i-srazu-v-roli-spikera-intervyu-s-romanom-danilovym_2540200/)
+
+> 📰 Интервью о пути на сцену - [в журнале Инфостарта](https://infostart.ru/journal/news/mir-1s/vpervye-na-konferentsii-i-srazu-v-roli-spikera-intervyu-s-romanom-danilovym_2540200/)
 
 ## ✍️ Пишу
 
