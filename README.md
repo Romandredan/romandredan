@@ -5,8 +5,8 @@
 ### Тимлид команды разработки · Аналитик/функциональный архитектор 1С · Спикер · Автор канала «Путь Аналитика»
 
 [![Telegram: Путь Аналитика](https://img.shields.io/badge/Telegram-Путь_Аналитика-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/analitics_way)
+[![Infostart: мой профиль](https://img.shields.io/badge/Infostart-мой_профиль-F7941E?style=for-the-badge&logoColor=white)](https://infostart.ru/profile/891976/)
 [![Habr: Romandredan9](https://img.shields.io/badge/Habr-Romandredan9-65A3BE?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/Romandredan9/)
-[![Infostart: моя статья](https://img.shields.io/badge/Infostart-моя_статья-F7941E?style=for-the-badge&logoColor=white)](https://infostart.ru/1c/articles/2657294/)
 
 </div>
 
